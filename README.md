@@ -1,4 +1,4 @@
-# 🧪 HexaLabs: R&D & Validation
+## 🧪 HexaLabs: R&D & Validation
 
 ### **The Proving Grounds for HexaKinetica Technology.**
 >
